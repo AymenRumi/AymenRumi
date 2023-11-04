@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently working on projects to sharpen my IaC best practices, data engineering best practices
+- - 🔭 I’m currently dabbling/learning some high performance computing with C++, wish me luck 😄
 <!--
 **AymenRumi/AymenRumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
