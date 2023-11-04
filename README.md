@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👨‍💻 I’m currently professionally working as a data scientist & software developer
-- 🌱 I’m currently sharpening my IaC and data engineering best practices through personal projects
-- 🔭 I’m currently dabbling / learning some high performance computing with C++, wish me luck !!
+- 🌱 I’m sharpening my IaC and data engineering best practices through personal projects
+- 🔭 I’m dabbling / learning some high performance computing with C++, wish me luck !!
 - 📫 How to reach me:
   - 📧 email: aymen.rumi@mail.mcgill.ca
   - 🌐 website: https://arumi.io/
