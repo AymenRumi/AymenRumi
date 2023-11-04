@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m currently professionally working as a data scientist & software developer
+- 👨‍💻 I’m currently working professionally as a data scientist & software developer
 - 🌱 I’m sharpening my IaC and data engineering skills through personal projects
 - 🔭 I’m dabbling / learning some high performance computing with C++, wish me luck !!
 - 📫 How to reach me:
