@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 - 👨‍💻 I’m currently professionally working as a data scientist & software developer
-- 🌱 I’m sharpening my IaC best practices, data engineering best practices through personal projects
-- 🔭 I’m currently dabbling/learning some high performance computing with C++, wish me luck !!
+- 🌱 I’m sharpening my IaC and data engineering best practices through personal projects
+- 🔭 I’m currently dabbling / learning some high performance computing with C++, wish me luck !!
 - 📫 How to reach me:
--  - email: aymen.rumi@mail.mcgill.ca
+  - 📧 email: aymen.rumi@mail.mcgill.ca
+  - 🌐 website: https://arumi.io/
+  - 💼 linkedin: https://www.linkedin.com/in/aymen-rumi/
 <!--
 **AymenRumi/AymenRumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
