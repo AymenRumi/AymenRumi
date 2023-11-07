@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 
 
 - 🌱 I’m currently sharpening my IaC and data engineering skills through personal projects
 - 🔭 I’m currently dabbling / learning some high performance computing with C++
