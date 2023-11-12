@@ -1,6 +1,6 @@
 ### Hi 
 
-- 📊 Data Scientist [CAE Inc.](https://www.cae.com/)
+- 📊 Data Scientist at [CAE Inc.](https://www.cae.com/)
 - 🌱 I’m currently sharpening my IaC and data engineering skills through personal projects
 - 🔭 I’m currently dabbling / learning some high performance computing with C++
 - 📫 How to reach me:
