@@ -1,8 +1,8 @@
 ### Hi 
 
 - 📊 Data Scientist at [CAE Inc.](https://www.cae.com/)
-- 🌱 I’m currently sharpening my IaC and data engineering skills through personal projects
-- 🔭 I’m currently dabbling / learning some high performance computing with C++
+- 🌱 Currently sharpening my IaC and data engineering skills through personal projects
+- 🔭 Currently dabbling / learning some high performance computing with C++
 - 📫 How to reach me:
   - 📧 email: aymen.rumi@mail.mcgill.ca
   - 🌐 website: https://arumi.io/
