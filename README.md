@@ -1,5 +1,7 @@
 ### Hi 
 
+- 👨‍💻 Data Scientist & AI Application Developer - Python, ReactJS, SQL, Linux ......
+- 🔭 Dabbling / learning some high performance computing with C++
 - 📫 How to reach me:
   - 📧 email: aymen.rumi@mail.mcgill.ca
   - 🌐 website: https://arumi.io/
