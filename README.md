@@ -2,7 +2,7 @@
 
 - 👨‍💻 Data Scientist & AI Application Developer - Python, ReactJS, SQL, Linux, Terraform
 - 🔭 Dabbling / learning some high performance computing with C++
-- Work in Progress: AI Assistant Desktop App with ElectronJS
+- 🚧 Work in Progress: AI Assistant Desktop App with ElectronJS
 - 📫 How to reach me:
   - 📧 email: aymen.rumi@mail.mcgill.ca
   - 🌐 website: https://arumi.io/
