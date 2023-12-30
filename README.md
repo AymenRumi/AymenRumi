@@ -1,6 +1,6 @@
 ### Hi 
 
-- 💻 Data Scientist & AI Application Developer 
+- 💻 📊 Data Scientist & AI Application Developer 
 - 🔭 Dabbling / learning some high performance computing with C++
 - 📫 How to reach me:
   - 📧 email: aymen.rumi@mail.mcgill.ca
