@@ -5,7 +5,7 @@
   - 📧 email: aymen.rumi@mail.mcgill.ca
   - 🌐 website: https://arumi.io/
   - 💼 linkedin: https://www.linkedin.com/in/aymen-rumi/
-- 🌱 I’m currently learning: Kubernetes, High Performance C++, Python Architecture Patterns 
+- 🌱 I’m currently learning (trying to):  `Kubernetes`, Python Architecture Patterns, High Performance C++
 <!--
 **AymenRumi/AymenRumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
