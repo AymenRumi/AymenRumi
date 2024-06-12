@@ -4,7 +4,7 @@
 - 📫 How to reach me:
   - 📧 email: aymen.rumi@mail.mcgill.ca
   - 🌐 website: [arumi.io](https://arumi.io/)
-  - 💼 linkedin: www.linkedin.com/in/aymen-rumi/(https://www.linkedin.com/in/aymen-rumi/)
+  - 💼 linkedin: [linkedin.com/in/aymen-rumi/](https://www.linkedin.com/in/aymen-rumi/)
 - 🌱 I’m currently learning:  `Helm - Kubernetes` `Python Architecture Patterns` `High Performance C++`
 <!--
 **AymenRumi/AymenRumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
