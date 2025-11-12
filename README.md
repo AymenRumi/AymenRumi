@@ -3,7 +3,7 @@
 - 💻 📊 Data Scientist & AI Application Developer
 - 📫 How to reach me:
   - 📧 email: aymen.rumi@mail.mcgill.ca
-  - 🌐 website: [arumi.io](https://arumi.io/)
+  - 🌐 website: [ar5labs.com](https://www.ar5labs.com/)
   - 💼 linkedin: [linkedin.com/in/aymen-rumi/](https://www.linkedin.com/in/aymen-rumi/)
 <!--
 **AymenRumi/AymenRumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
